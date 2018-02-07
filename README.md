@@ -9,7 +9,7 @@ git clone https://github.com/SoldAI/java-console-chat.git
 
 Change to the src directory and compile the sorurces using
 ```bash
-javac HermesConsole.java --classparth=../build
+javac HermesConsole.java -d ../build
 ```
 
 Change to the build directory and Execute the program using
